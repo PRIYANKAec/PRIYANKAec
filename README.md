@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Priyanka A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanka-a-3a8611270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanka-a-3a8611270" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +26,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankaec&show_icons=true&locale=en&layout=compact" alt="priyankaec" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankaec&" alt="priyankaec" /></p>
-
