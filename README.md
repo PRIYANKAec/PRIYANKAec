@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuing my BE-ECE at **VELALAR COLLEGE FOR ENGINEERING AND TECHNOLOGY, ERODE.**
 
-- 🌱 I’m currently learning **JAVASCRIPT**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👯 I’m currently working on **Frontend Development projects**
 
